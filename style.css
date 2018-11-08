@@ -1,0 +1,36 @@
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding:5px;
+    text-align: center;
+
+    
+}
+h1, h2, h3{
+    color: brown;
+    background-color: black;
+    text-align: center;
+    padding:10px;
+}
+li{
+    list-style-type:none;
+    display: inline;
+    margin:10px;
+    font-size: 20px;
+    text-decoration:none; 
+
+}
+
+form, h1, h2 {
+    text-align: center;
+    padding: 20px;
+      
+
+}
+table{
+    margin: 0 auto; 
+    /* for text we use text align: center */
+}
+
+
+   
